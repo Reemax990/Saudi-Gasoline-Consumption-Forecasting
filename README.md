@@ -46,8 +46,12 @@ Visualized key insights using:
 - Split data into Train (all except last 12 months) and Test (last 12 months)  
 - Trained SARIMA model: (1,1,1)x(1,1,1,12)  
 
-Model Evaluation:
+### Model Evaluation Metrics
 
+| Metric | Value  |
+|--------|--------|
+| MAE    | 14.98  |
+| RMSE   | 19.51  |
 
 ---
 
