@@ -69,8 +69,6 @@ Forecasted gasoline consumption for future years (2025–2027), including confid
 | SARIMA Split | Train vs Test vs Forecast |
 | Future Forecast | Consumption prediction for 2025–2027 |
 
-(Replace this section with images)
-
 ---
 
 ## Tools and Libraries
@@ -81,27 +79,5 @@ Forecasted gasoline consumption for future years (2025–2027), including confid
 | Visualization | matplotlib |
 | Forecasting | statsmodels (SARIMAX) |
 | Evaluation | sklearn |
-
----
-
-## What I Learned
-- How to analyze time-series data  
-- Understanding trend, seasonality, and stationarity  
-- How to apply SARIMA model  
-- Interpreting model performance using MAE and RMSE  
-
----
-
-## Future Enhancements
-- Compare with other models such as ARIMA, Prophet, or LSTM  
-- Build a dashboard using Power BI or Tableau  
-- Deploy the model using Streamlit  
-
----
-
-## Author
-Reema Bin Mohsen  
-LinkedIn: (add your link)  
-Email: (add your email)
 
 
