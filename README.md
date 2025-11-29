@@ -80,4 +80,14 @@ Forecasted gasoline consumption for future years (2025–2027), including confid
 | Forecasting | statsmodels (SARIMAX) |
 | Evaluation | sklearn |
 
+---
 
+## Data Source
+
+The dataset used in this project was obtained from the official Saudi Open Data Portal.
+
+Dataset Title: Local Gasoline Consumption  
+Source: Saudi Open Data (Data.gov.sa)  
+Link: https://open.data.gov.sa/ar/datasets/view/c7e19e8d-1508-4f28-9151-fb2cb274ce55
+
+This dataset contains monthly gasoline consumption in Saudi Arabia from 2002 to 2024, measured in thousand barrels per day.
